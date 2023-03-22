@@ -86,15 +86,15 @@ const projects = [
     source_code_link: 'https://github.com/',
   },
   {
-    name: 'Job IT',
-    description: 'Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.',
+    name: 'Messenger App',
+    description: 'This is a real time react chat web application. It was developed using React and Firebase Google Authentication.',
     tags: [
       {
         name: 'react',
         color: 'blue-text-gradient',
       },
       {
-        name: 'restapi',
+        name: 'firebase',
         color: 'green-text-gradient',
       },
       {
@@ -103,18 +103,18 @@ const projects = [
       },
     ],
     image: jobit,
-    source_code_link: 'https://github.com/',
+    source_code_link: 'https://react-chat-flame.vercel.app/',
   },
   {
-    name: 'Trip Guide',
-    description: 'A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.',
+    name: 'Students Data',
+    description: 'This is a web application. With the following features to be implemented filter students data using their age, level or gender. Consume an external API and download students result.',
     tags: [
       {
-        name: 'nextjs',
+        name: 'reactjs',
         color: 'blue-text-gradient',
       },
       {
-        name: 'supabase',
+        name: 'restapi',
         color: 'green-text-gradient',
       },
       {
@@ -123,7 +123,7 @@ const projects = [
       },
     ],
     image: tripguide,
-    source_code_link: 'https://github.com/',
+    source_code_link: 'https://students-data.vercel.app/',
   },
 ];
 
