@@ -16,6 +16,7 @@ import {
   carrent,
   jobit,
   tripguide,
+  chat,
 } from '../assets';
 
 export const navLinks = [
@@ -102,7 +103,7 @@ const projects = [
         color: 'pink-text-gradient',
       },
     ],
-    image: jobit,
+    image: chat,
     source_code_link: 'https://react-chat-flame.vercel.app/',
   },
   {
