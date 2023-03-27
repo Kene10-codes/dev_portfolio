@@ -15,6 +15,7 @@ import {
   shopify,
   carrent,
   jobit,
+  hoadr,
   tripguide,
   chat,
 } from '../assets';
@@ -67,24 +68,24 @@ const technologies = [
 
 const projects = [
   {
-    name: 'Car Rent',
-    description: 'Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.',
+    name: 'Hoadr App',
+    description: 'An application where people who want to manage their hoarding problem can put up their items for sale at a very cheap giveaway price.',
     tags: [
       {
         name: 'react',
         color: 'blue-text-gradient',
       },
       {
-        name: 'mongodb',
+        name: 'css',
         color: 'green-text-gradient',
       },
       {
-        name: 'tailwind',
+        name: 'bootstrap',
         color: 'pink-text-gradient',
       },
     ],
-    image: carrent,
-    source_code_link: 'https://github.com/',
+    image: hoadr,
+    source_code_link: 'https://hoardr-fe-95.vercel.app/',
   },
   {
     name: 'Messenger App',
