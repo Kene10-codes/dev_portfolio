@@ -1,6 +1,4 @@
 import {
-  mobile,
-  web,
   javascript,
   html,
   css,
@@ -8,15 +6,8 @@ import {
   tailwind,
   git,
   figma,
-  docker,
-  meta,
-  starbucks,
-  tesla,
-  shopify,
-  carrent,
-  jobit,
   hoadr,
-  tripguide,
+  student,
   chat,
 } from '../assets';
 
@@ -124,7 +115,7 @@ const projects = [
         color: 'pink-text-gradient',
       },
     ],
-    image: tripguide,
+    image: student,
     source_code_link: 'https://students-data.vercel.app/',
   },
 ];
